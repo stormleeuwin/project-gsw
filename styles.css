@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(27, 26, 26);
+    background-size: cover;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.rubbish {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.562);
+    margin-top: 14px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-align: center;
+}
+
+main {
+    height: 570px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.616);
+    height: 100px;
+    margin-top: 30px;
+    padding-top: 14px;
+    padding-bottom: 50px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/* footer p {
+    color: white;
+} */
+
+main p {
+    color: rgba(255, 255, 255, 0.493);
+    font-size: 20px;
+    text-align: center;
+}
